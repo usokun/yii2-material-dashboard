@@ -1,12 +1,12 @@
 {
-    "name": "deyraka/yii2-material-dashboard",
+    "name": "usokun/yii2-material-dashboard",
     "description": "Material Dashboard Theme for Yii 2.0",
     "type": "yii2-extension",
     "license": "MIT",
     "authors": [
         {
-            "name": "deyraka",
-            "email": "dey.raka53@gmail.com"
+            "name": "usokun",
+            "email": "alihidayat278@gmail.com"
         }
     ],
     "keywords": [
@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "deyraka\\materialdashboard\\": ""
+            "usokun\\materialdashboard\\": ""
         }
     }
 }
