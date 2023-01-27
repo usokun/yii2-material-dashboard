@@ -1,5 +1,8 @@
 # Yii2 Material Dashboard
+NOTE: This fork meant to used for Bootstrap5, so if you're using Bootstrap5 in your current project, you don't have to change the yii\bootstrap\Widget to yii\bootstrap5\Widget everytime you install this dependency :)
+
 Material Dashboard for Yii2 Framework
+
 
  ![version](https://img.shields.io/badge/stable-1.0.0-blue.svg) 
  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/deyraka/yii2-material-dashboard/LICENSE.md)
