@@ -7,7 +7,7 @@
 
 namespace usokun\materialdashboard\widgets;
 
-use yii\bootstrap5\Widget;
+use yii\bootstrap4\Widget;
 use yii\helpers\Html;
 use yii\helpers\Url;
 
