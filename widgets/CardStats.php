@@ -8,7 +8,7 @@
 namespace usokun\materialdashboard\widgets;
 
 //use rmrevin\yii\fontawesome\component\Icon;
-use yii\bootstrap5\Widget;
+use yii\bootstrap4\Widget;
 use yii\helpers\Html;
 
 class Cardstats extends Widget
